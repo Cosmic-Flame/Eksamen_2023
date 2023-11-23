@@ -140,7 +140,7 @@ main div {
     align-content: flex-start;
     text-align: left;
 }
-
+    /* 'not()' kode hentet fra stackoverflow: https://stackoverflow.com/questions/53241566/how-to-make-exceptions-to-css-rules */
     #branding section img:not(.big-img) {
         max-width: 350px;
         min-width: 200px;
