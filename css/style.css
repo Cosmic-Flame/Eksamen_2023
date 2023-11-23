@@ -43,6 +43,10 @@ header {
     color: #000;
 }
 
+#get-in-touch-btn {
+    margin: 2rem 0;
+}
+
 main {
     text-align: center;
     margin: 0.5rem;
@@ -97,7 +101,7 @@ main div {
     background-color: #d9d9d9;
     padding: 2rem;
     margin-top: 0;
-    height: 250px;
+    height: 320px;
 }
     /*'float: right' hentet fra: https://stackoverflow.com/questions/12710843/want-to-move-a-particular-div-to-right */
     #about-headline section {
